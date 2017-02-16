@@ -1,9 +1,8 @@
 # Summary
 
-This is the summary of my book.
+* [Introducción](README.md)
+* [Chapter 1: GitBook](chapter1/chapter1.md)
+* [Chapter 2: GH-pages](chapter2/chapter-2-ph-pages.md)
+* [Chapter 3: Instalación](chapter3/chapter-3-instalacion.md)
+* [Chapter 4: Pandoc](chapter4/chapter4-pandoc.md)
 
-* [section 1](section1/README.md)
-    * [example 1](section1/example1.md)
-    * [example 2](section1/example2.md)
-* [section 2](section2/README.md)
-    * [example 1](section2/example1.md)

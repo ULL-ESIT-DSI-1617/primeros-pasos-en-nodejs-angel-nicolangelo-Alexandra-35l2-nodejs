@@ -1,7 +1,9 @@
 // Archivo gulpfile.json
 
 var gulp = require('gulp');
-
-gulp.task('default', function() {
-    console.log('Hola Mundo!!!');
+var ghPages = require('gulp-gh-pages');
+ 
+gulp.task('deploy', function() {
+  return gulp.src('./dist/**/*')
+    .pipe(ghPages());
 });

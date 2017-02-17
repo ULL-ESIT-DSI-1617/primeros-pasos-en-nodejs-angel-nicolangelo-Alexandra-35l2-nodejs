@@ -14,7 +14,7 @@ gulp.task('build', function() { //Construir el libro
 
 //Tarea deploy
 gulp.task('deploy', function() {
-  return gulp.src('./gh-pages/**/*') //todo lo que hay dentro del gh-pages
+  return gulp.src('./gh-pages/**/*') //publica todo lo que hay dentro del gh-pages
     .pipe(ghPages());
 });
     

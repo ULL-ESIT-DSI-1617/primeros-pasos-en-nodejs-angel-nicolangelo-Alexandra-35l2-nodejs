@@ -41,7 +41,7 @@ Casiano Rodríguez León
 
 ### Despliegue del libro
 * [Despliegue del libro en GitBook](https://alexandra_esplugas.gitbooks.io/tareas-iniciales/content/)
-* [Despliegue del libro en gh-pages](https://ull-esit-dsi-1617.github.io/tareas-iniciales-angel-nicolangelo-alexandra-35l2/)
+* [Despliegue del libro en gh-pages](https://ull-esit-dsi-1617.github.io/primeros-pasos-en-nodejs-angel-nicolangelo-Alexandra-35l2-nodejs/)
 
 ### Enlace del grupo
 [Enlace al grupo en GitHub](https://github.com/ULL-ESIT-DSI-1617/primeros-pasos-en-nodejs-angel-nicolangelo-Alexandra-35l2-nodejs)

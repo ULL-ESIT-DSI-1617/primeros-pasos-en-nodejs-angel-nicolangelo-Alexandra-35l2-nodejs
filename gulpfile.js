@@ -1,11 +1,12 @@
 // Archivo gulpfile.json
+//Gulp automatizacion de tareas
 
 var gulp = require('gulp');
 var ghPages = require('gulp-gh-pages');
 var shell = require('gulp-shell');
  
 //Tarea Build
-gulp.task('build', function() {
+gulp.task('build', function() { //Construir el libro
   return gulp.src('').pipe(shell(['./scripts/generate-gitbook']));
 });
 

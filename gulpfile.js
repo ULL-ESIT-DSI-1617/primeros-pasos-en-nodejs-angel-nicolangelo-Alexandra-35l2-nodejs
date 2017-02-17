@@ -20,19 +20,7 @@ gulp.task('deploy', function() {
 });
     
     
-//Tarea publicacion en local
+//Tarea servidor
 gulp.task('serve', function() {
-  return gulp.src('./gh-pages/**/*')
-    .pipe(ghPages());
-
+  return gulp.src('').pipe(shell(['gitbook serve --lrport 99990 --port 43210 ./txt gh-pages']));
 });
-
-gulp.task('serve', serve('public'));
-gulp.task('serve-build', serve(['public', 'build']));
-gulp.task('serve-prod', serve({
-  root: ['public', 'build'],
-  port: 80,
-  middleware: function(req, res) {
-    // custom optional middleware 
-  }
-}));

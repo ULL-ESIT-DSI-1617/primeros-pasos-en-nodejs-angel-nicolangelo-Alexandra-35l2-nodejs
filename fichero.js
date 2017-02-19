@@ -3,7 +3,7 @@ var express = require('express');
 var app = express();
 var path = require('path');
 //instanciar
-var app = express();
+//var app = express();
 
 //ruteo
 app.get('/', function(req, res){

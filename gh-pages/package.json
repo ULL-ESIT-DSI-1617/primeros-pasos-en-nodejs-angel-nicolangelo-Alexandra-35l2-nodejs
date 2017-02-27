@@ -1,0 +1,23 @@
+{
+  "name": "tareas-iniciales-angel-nicolangelo-35l2",
+  "version": "1.0.0",
+  "description": "Este libro fue creado por Ángel Luis Morales Hernández y Nicolangelo Famiglietti. El libro sirve de auto-aprendizaje de GitBook y sus herramientas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-angel-nicolangelo-35l2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-angel-nicolangelo-35l2/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-angel-nicolangelo-35l2#readme",
+  "dependencies": {
+    "gitbook": "^3.2.2",
+    "gitbook-cli": "^2.3.0"
+  }
+}

@@ -41,8 +41,9 @@ Casiano Rodríguez León
 * [GitHub](https://github.com/alu0100912005)
 
 ### Despliegue del libro
-* [Despliegue del libro en Iaas](copiar aqui la dir)
+* [Despliegue del libro en Iaas](http://10.6.128.52:8080/)
 * [Despliegue del libro en gh-pages](https://ull-esit-dsi-1617.github.io/tareas-iniciales-angel-nicolangelo-alexandra-35l2/)
 
 ### Enlace del grupo
 [Enlace al grupo en GitHub](https://github.com/ULL-ESIT-DSI-1617/primeros-pasos-en-nodejs-angel-nicolangelo-Alexandra-35l2-nodejs)
+
